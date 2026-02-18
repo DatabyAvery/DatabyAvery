@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm Avery, a business analytics student based in the U.S.
+
+I frequently work with - Tableau, SQL, and Python 
+
+I also have a knack for using figma and blender for design purposes!
+
+This is where I post some of school projects and programs I have personally worked on.
+
 <!--
 **DatabyAvery/DatabyAvery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
